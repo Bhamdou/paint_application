@@ -1,0 +1,5 @@
+
+File Menu: Save the current canvas as a PNG.
+Colors Menu: Change the foreground (pen) color, change the background (canvas) color.
+Tools Menu: Change the size of the brush, use an eraser.
+
